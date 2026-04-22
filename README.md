@@ -2,8 +2,9 @@
 
 #### Video Demo: https://youtu.be/RP4jPomwwyA
 
-#explanation of project structure
-#screenshots
+#adapt from read.me
+
+#how it works, how it's structured, how to use it, limitations, etc.
 
 
 
