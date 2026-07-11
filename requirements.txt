@@ -1,2 +1,2 @@
-pip install geopy
+geopy
 uscities.csv (https://simplemaps.com/data/us-cities)
