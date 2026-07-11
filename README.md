@@ -30,6 +30,21 @@ I chose 150,000 somewhat arbitrarily, but the speed simulates real time relative
 
 Additionally, I chose not to organize the logic for tracking Santa into a class because there was no need to create instances of Santa with different attributes. Retrieving the most recent entry from `visited.csv` was sufficient for the user to be able to “track” Santa’s current location. Therefore the code in `project.py` is only functions, but they work well together to serve the user's needs and I did not feel it was necessary to complicate the program with a class if it wasn’t contributing to the functionality of the code.
 
+# Setup and Usage
+
+**1.** Clone the respository:
+   
+   `git clone https://github.com/rjohns116/NYC-OpenData-Synthetic-Turf-Fields-Exploration-and-Analysis`
+   
+**2.** Install dependencies:
+   
+   `pip install -r requirements.txt`
+   
+**3.** Execute the `project.py` file:
+   
+   `python project.py`
+
+
 # Acknowledgements
 
 Thank you to David J. Malan and Harvard's [CS50: Introduction to Programming with Python](https://cs50.harvard.edu/python/) for creating the opportunity to develop this project. 
